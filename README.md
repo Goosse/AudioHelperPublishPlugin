@@ -1,4 +1,4 @@
-# Audio Helper Pu
+# Audio Helper Publish Plugin
 ## Installation
 
 To install it into your [Publish](https://github.com/johnsundell/publish) package, add it as a dependency within your `Package.swift` manifest:
